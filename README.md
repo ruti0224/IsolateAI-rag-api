@@ -1,6 +1,6 @@
-# 🛡️ Sentinel RAG API
+# 🛡️ IsolateAI RAG API
 
-Sentinel RAG API is a robust FastAPI backend designed for autonomous document analysis, summarization, and data extraction using Retrieval-Augmented Generation (RAG) and OpenAI's LLMs.
+IsolateAI RAG API is a robust FastAPI backend designed for autonomous document analysis, summarization, and data extraction using Retrieval-Augmented Generation (RAG) and OpenAI's LLMs.
 
 The system is specially architected to ensure strict data isolation and maintain high stability in environments with rigorous network filtering (e.g., Netfree) and proxy servers.
 
